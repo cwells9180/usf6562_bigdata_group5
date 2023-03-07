@@ -1,4 +1,4 @@
-# usf6562_bigdata_group5
+# USF 6562 Big Data for Business - Group5
 Final project for Group 5, 2023 Spring USF 6562 Big Data
 
 The .pptx is a Powerpoint Presentation file intended to provide an overview and background of the project.
