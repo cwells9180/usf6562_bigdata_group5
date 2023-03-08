@@ -9,25 +9,25 @@ These are demonstrations of using Apache Spark to interrogate a dataset using a 
 
 The dataset is a Comma Seperated Value (CSV) formatted file, with the following data gathered from an AirBnB (Vacation and Condo rentals) business domain:
 
-host_is_superhost	
-host_identity_verified
-neighbourhood_cleansed
-latitude
-longitude
+host_is_superhost	  
+host_identity_verified  
+neighbourhood_cleansed  
+latitude  
+longitude  
 property_type
-room_type	accommodates
-bathrooms
-bedrooms
-beds
-bed_type
-Number_of_amenities
-guests_included
-price_per_extra_person
-minimum_nights
-number_of_reviews
-number_days_btw_first_last_review
-review_scores_rating
-cancellation_policy
-price
-price_gte_150
-price_category
+room_type	accommodates  
+bathrooms  
+bedrooms  
+beds  
+bed_type  
+Number_of_amenities  
+guests_included  
+price_per_extra_person  
+minimum_nights  
+number_of_reviews  
+number_days_btw_first_last_review  
+review_scores_rating  
+cancellation_policy  
+price  
+price_gte_150  
+price_category  
