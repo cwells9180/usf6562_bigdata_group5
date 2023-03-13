@@ -7,7 +7,7 @@ The .ipynb are Databricks notebooks meant to be imported and run at: https://com
 
 These are demonstrations of using Apache Spark to interrogate a dataset using a variety of statistical methodologies.  The advantage to using this platform and Spark in particular is that the same algorithms will work without adjustment on very large datasets.  
 
-The dataset is a Comma Seperated Value (CSV) formatted file, with the following data gathered from an AirBnB (Vacation and Condo rentals) business domain:
+The dataset, airbnb.csv, is a Comma Seperated Value (CSV) formatted file, with the following data gathered from an AirBnB (Vacation and Condo rentals) business domain:
 
 host_is_superhost	  
 host_identity_verified  
